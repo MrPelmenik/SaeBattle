@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\SeaBattleMine\SeaBattleMine\Source.cpp(722,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\SeaBattleMine\SeaBattleMine\Source.cpp(723,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SeaBattleMine.vcxproj -> C:\Users\User\source\repos\SeaBattleMine\x64\Debug\SeaBattleMine.exe
